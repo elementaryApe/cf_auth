@@ -1,0 +1,3 @@
+name = "s3auth"
+type = "javascript"
+main = "main.js" # 指定入口文件
