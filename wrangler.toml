@@ -1,3 +1,4 @@
 name = "s3auth"
 type = "javascript"
 main = "main.js" # 指定入口文件
+compatibility_date = "2025-02-12" # 当前日期或最近的兼容性日期
